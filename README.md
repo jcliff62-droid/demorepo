@@ -1,2 +1,3 @@
-# demorepo
-first time trying to learn github and git
+# Demo Repo file 
+
+First attempts at learning the basics of git and github
